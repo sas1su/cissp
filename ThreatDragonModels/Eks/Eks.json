@@ -1,9 +1,12 @@
 {
   "summary": {
-    "title": "Eks"
+    "title": "Eks",
+    "owner": "Eks",
+    "description": "Eks"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": "Eks"
   }
 }
